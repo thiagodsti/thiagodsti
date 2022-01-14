@@ -4,7 +4,7 @@ Hi there 👋
 
 I am a Brazilian living in Stockholm.<br>
 I graduated in Information Systems in 2018, and then I moved to Sweden in the same year.<br>
-I love studying new technologies related to open source software, distributed systems. I'm also a big fan of automated tests. 
+I love studying new technologies related to open source software and distributed systems. I'm also a big fan of automated tests. 
 Currently, I am deepening my knowledge in Kotlin and Serverless. <br>
 
 📬 Contact
