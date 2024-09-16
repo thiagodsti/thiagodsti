@@ -11,8 +11,6 @@ Currently, I am deepening my knowledge in Rust. <br>
 
 LinkedIn: https://www.linkedin.com/in/thiagodsti
 
-![Snake animation](https://github.com/thiagodsti/thiagodsti/blob/output/github-contribution-grid-snake.svg)
-
 <div>
   <a href="https://github.com/thiagodsti">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodsti&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
